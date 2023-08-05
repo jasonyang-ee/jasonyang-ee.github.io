@@ -1,0 +1,14 @@
+[book]
+title = "Project Documentation"
+authors = ["Jason Teng"]
+language = "en"
+multilingual = false
+src = "src"
+
+[build]
+build-dir = "docs"
+
+[output.html]
+additional-css = ["ferris.css", "theme/2018-edition.css"]
+additional-js = ["ferris.js"]
+git-repository-url = "https://github.com/jasonyang-ee"
