@@ -12,3 +12,4 @@ build-dir = "docs"
 additional-css = ["ferris.css", "theme/2018-edition.css"]
 additional-js = ["ferris.js"]
 git-repository-url = "https://github.com/jasonyang-ee"
+cname = "doc.jasony.org"
