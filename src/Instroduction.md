@@ -16,11 +16,5 @@ See [Github Profile](https://github.com/jasonyang-ee) for more information.
 
 ### Functional Projects
 
-[STM32-FLASH](https://doc.jasony.org/STM32-FLASH)
-
-[STM32-CLI](https://doc.jasony.org/STM32-CLI)
-
-[STM32-LED](https://doc.jasony.org/STM32-LED)
-
 [STM32G431KBT6](https://doc.jasony.org/STM32G431KB)
 
