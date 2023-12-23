@@ -9,7 +9,7 @@ src = "src"
 build-dir = "docs"
 
 [output.html]
-additional-css = ["ferris.css", "theme/2018-edition.css"]
-additional-js = ["ferris.js"]
+additional-css = ["docs_src/ferris.css", "theme/2018-edition.css"]
+additional-js = ["docs_src/ferris.js"]
 git-repository-url = "https://github.com/jasonyang-ee"
 cname = "doc.jasony.org"
