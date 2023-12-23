@@ -3,13 +3,13 @@ title = "Project Documentation"
 authors = ["Jason Yang"]
 language = "en"
 multilingual = false
-src = "src"
+src = "src/page"
 
 [build]
 build-dir = "docs"
 
 [output.html]
-additional-css = ["src/ferris.css", "theme/2018-edition.css"]
+additional-css = ["src/ferris.css", "src/theme/2018-edition.css"]
 additional-js = ["src/ferris.js"]
 git-repository-url = "https://github.com/jasonyang-ee"
 cname = "doc.jasony.org"

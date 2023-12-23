@@ -13,8 +13,3 @@ See [Github Profile](https://github.com/jasonyang-ee) for more information.
 
 [STM32-CMAKE-TEMPLATE](https://doc.jasony.org/STM32-CMAKE-TEMPLATE)
 
-
-### Functional Projects
-
-[STM32G431KBT6](https://doc.jasony.org/STM32G431KB)
-
